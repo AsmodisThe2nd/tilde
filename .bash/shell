@@ -1,5 +1,9 @@
 #!/bin/bash
 
+export JAVA_HOME=/home/simon/bin/java
+export JDK_HOME=/home/simon/bin/jdk
+export PATH=$PATH:/home/simon/bin/jdk/bin
+
 # Shell options, environment variables and readline settings
 # =============================================================================
 
